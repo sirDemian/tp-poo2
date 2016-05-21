@@ -10,7 +10,6 @@ public class Concesionaria {
 	public Concesionaria(Fabrica fab){
 		this.fabrica=fab;
 		this.clientes= new ArrayList<Cliente>;
-		
 	}
 	
 }
